@@ -1,0 +1,27 @@
+{
+  "name": "parser_url",
+  "version": "0.0.2",
+  "description": "add",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnlorNode/parser_url.git"
+  },
+  "keywords": [
+    "node",
+    "pars",
+    "url"
+  ],
+  "author": "AnlorNode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnlorNode/parser_url/issues"
+  },
+  "homepage": "https://github.com/AnlorNode/parser_url#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
